@@ -1,5 +1,5 @@
 # musical-instruments-recognition
-Repositori d'un treball de l'assignatura de Visió per Computador de la [Universitat Autònoma de Barcelona](https://www.uab.cat).
+Repositori d'un treball de l'assignatura de Visió per Computador de la [Universitat Autònoma de Barcelona](https://www.uab.cat) en el qual s'estudia l'ús de diferents espectrogrames per al reconeixement de diferents instruments d'un àudio.
 
 ## Abstract
 En aquest projecte s'estudia la classificació d'àudios a partir dels instruments musicals que hi apareixen, mitjançant tècniques de visió per computador. Amb aquest propòsit, s'han estudiat diferents maneres de representar un so a partir d'imatges, de manera que es representin les freqüències sonores en un eix de la imatge, el temps en l'altre, i la intensitat de cada freqüència es representi mitjançant el color. Alguns dels tipus de gràfics considerats són els espectrogrames, els *mel-spectrogram* o els *tonnetz*.
